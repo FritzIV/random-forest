@@ -1,4 +1,4 @@
-# ASMT9
+# Random forest presentation
 Random Forest presentation and model implementation
 
 diabetes.py contains functions to run code in random_forest.ipynb
